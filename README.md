@@ -17,7 +17,7 @@ async def on_ready():
     print(f'{bot.user} has connected to Discord!')
 ```
 
-Let's say we want the Discord bot to send "Good Morning!" on 08:00 (8:00pm) at specific channel only in our Discord server.
+Let's say we want the Discord bot to send "Good Morning!" message everyday on 08:00 (8:00pm) at specific channel only in our Discord server.
 
 ```
 def send_good_morning():
