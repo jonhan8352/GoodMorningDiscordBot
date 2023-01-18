@@ -1,6 +1,6 @@
 # GoodMorningDiscordBot
 
-We are going to create a Discord bot which it will send message to the channel in Discord Server during specific time. First we need to install Discord, Schedule and Time in our Python script.
+We are going to create a Discord bot which it will send message to the channel in Discord Server during specific time. First we need to install Discord, Schedule and Time library into our Python script.
 
 ```
 import discord
