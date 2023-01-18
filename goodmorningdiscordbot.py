@@ -11,7 +11,7 @@ async def on_ready():
 
 def send_good_morning():
     channel = bot.get_channel(channel_id) #Replace channel_id with the id of the channel you want to send the message to
-    await channel.send("Good morning! ☀️")
+    await channel.send("Good morning!☀️")
 
 @bot.command(name='schedule_good_morning')
 async def schedule_good_morning(ctx):
